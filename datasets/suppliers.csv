@@ -1,0 +1,101 @@
+supplier_id,supplier_name,contact_person,email,phone,city,state,gst_number,created_at
+S00001,PrimeTech Trading Co.,Ikshita Walia,primetechtradingco@gmail.com,6201329281,Indore,Madhya Pradesh,11LEOLG2731W1Z8,2026-08-12
+S00002,Apex Traders,Edhitha Kale,apextraders@gmail.com,6644172936,Hyderabad,Telangana,18VLFCO8429I1Z3,2026-08-12
+S00003,NextGen Traders,Ekansh Brahmbhatt,nextgentraders@gmail.com,3709462957,Lucknow,Uttar Pradesh,29AECUG7489Q1Z5,2026-08-12
+S00004,NextGen Distributors,Chaman Dewan,nextgendistributors@gmail.com,04368299456,Delhi,Delhi,35HVYOT6557B1Z8,2026-08-12
+S00005,NextGen Trading Co.,Henry Panchal,nextgentradingco@gmail.com,+911508106898,Pune,Maharashtra,17YQTPD8645E1Z0,2026-08-12
+S00006,Apex Traders,Indira Prasad,apextraders@gmail.com,+913015862950,Delhi,Delhi,33YSLBR4987E1Z4,2026-08-12
+S00007,Elite Retail Solutions,Finn Pathak,eliteretailsolutions@gmail.com,6132010054,Indore,Madhya Pradesh,25MTIZJ1991Z1Z3,2026-08-12
+S00008,NovaMart Distributors,Yashasvi Bahl,novamartdistributors@gmail.com,+915909131750,Indore,Madhya Pradesh,28YBJWE4482Q1Z8,2026-08-12
+S00009,UrbanEdge Traders,Farhan Patla,urbanedgetraders@gmail.com,7133367753,Pune,Maharashtra,28LSOZA3150Y1Z9,2026-08-12
+S00010,UrbanEdge Distributors,Sudiksha More,urbanedgedistributors@gmail.com,08486902399,Hyderabad,Telangana,24UWCLA9037H1Z6,2026-08-12
+S00011,Vertex Traders,Wriddhish Varghese,vertextraders@gmail.com,+917589447022,Pune,Maharashtra,21XKIDY2999N1Z0,2026-08-12
+S00012,Apex Trading Co.,Harrison Goyal,apextradingco@gmail.com,07999976190,Delhi,Delhi,24ABBRO2479Q1Z7,2026-08-12
+S00013,PrimeTech Retail Solutions,Yochana Chowdhury,primetechretailsolutions@gmail.com,07949952181,Bhopal,Madhya Pradesh,32UOOFB8314K1Z5,2026-08-12
+S00014,Vertex Wholesale,Harrison Chawla,vertexwholesale@gmail.com,+913709387448,Jaipur,Rajasthan,10XITOX2793F1Z5,2026-08-12
+S00015,Apex Supplies Pvt Ltd,Omaja Pradhan,apexsuppliespvtltd@gmail.com,03013511879,Bhopal,Madhya Pradesh,18HWGGA8959Z1Z8,2026-08-12
+S00016,Global Supplies Pvt Ltd,Frederick Mand,globalsuppliespvtltd@gmail.com,1239309009,Indore,Madhya Pradesh,24JBIER8778H1Z5,2026-08-12
+S00017,PrimeTech Supplies Pvt Ltd,Chanchal Dube,primetechsuppliespvtltd@gmail.com,+918763762690,Pune,Maharashtra,13NHOFP4361Z1Z7,2026-08-12
+S00018,PrimeTech Distributors,Idika Chandra,primetechdistributors@gmail.com,7113803206,Delhi,Delhi,34EDHUE9560V1Z5,2026-08-12
+S00019,PrimeTech Supply Chain,Naveen Narasimhan,primetechsupplychain@gmail.com,+912143355793,Jaipur,Rajasthan,34WMAGD6730D1Z5,2026-08-12
+S00020,BlueNova Supply Chain,Bhavna Rau,bluenovasupplychain@gmail.com,+918907823073,Hyderabad,Telangana,12HPXSW8954Q1Z1,2026-08-12
+S00021,NextGen Supply Chain,Urmi Kari,nextgensupplychain@gmail.com,01311798460,Jaipur,Rajasthan,12GAPTB0725F1Z2,2026-08-12
+S00022,UrbanEdge Retail Solutions,Ayush Basak,urbanedgeretailsolutions@gmail.com,00390439991,Delhi,Delhi,23UGXPI7500V1Z9,2026-08-12
+S00023,BlueNova Enterprises,Utkarsh Kala,bluenovaenterprises@gmail.com,09030349544,Indore,Madhya Pradesh,23UODEL5320X1Z4,2026-08-12
+S00024,Vertex Supplies Pvt Ltd,Daksh Bath,vertexsuppliespvtltd@gmail.com,8693297591,Lucknow,Uttar Pradesh,21OKKOR2111O1Z5,2026-08-12
+S00025,BlueNova Supplies Pvt Ltd,Manan Raj,bluenovasuppliespvtltd@gmail.com,1102696305,Mumbai,Maharashtra,11HXXEB0814T1Z9,2026-08-12
+S00026,Apex Enterprises,Varenya Jha,apexenterprises@gmail.com,7705859625,Jaipur,Rajasthan,19DWYCM3117L1Z8,2026-08-12
+S00027,PrimeTech Supplies Pvt Ltd,Ekavir Dutt,primetechsuppliespvtltd@gmail.com,2609981744,Delhi,Delhi,32ECLEA9384T1Z5,2026-08-12
+S00028,Elite Supplies Pvt Ltd,Anika Halder,elitesuppliespvtltd@gmail.com,+916215250575,Hyderabad,Telangana,32HRDSC5160X1Z6,2026-08-12
+S00029,Elite Supply Chain,Kevin Ganesh,elitesupplychain@gmail.com,+915062518148,Jaipur,Rajasthan,22LGUOV0247T1Z6,2026-08-12
+S00030,NovaMart Supply Chain,Adweta Seth,novamartsupplychain@gmail.com,00439686342,Lucknow,Uttar Pradesh,18KGQCV0682Z1Z2,2026-08-12
+S00031,PrimeTech Enterprises,Yashvi Kohli,primetechenterprises@gmail.com,4226738911,Mumbai,Maharashtra,29ANPJP4153X1Z8,2026-08-12
+S00032,NextGen Supplies Pvt Ltd,Diya Sankar,nextgensuppliespvtltd@gmail.com,+916266432937,Bhopal,Madhya Pradesh,26PQDAC9211F1Z1,2026-08-12
+S00033,Skyline Retail Solutions,Oni Tripathi,skylineretailsolutions@gmail.com,+915727663160,Bengaluru,Karnataka,26OHRQI3015Q1Z0,2026-08-12
+S00034,Vertex Enterprises,Arjun Rau,vertexenterprises@gmail.com,7712263726,Lucknow,Uttar Pradesh,10QUZRG7257D1Z7,2026-08-12
+S00035,NovaMart Trading Co.,Hitesh Edwin,novamarttradingco@gmail.com,+911064929685,Delhi,Delhi,12LDZGR7175V1Z3,2026-08-12
+S00036,PrimeTech Wholesale,Sachi Kulkarni,primetechwholesale@gmail.com,2150696939,Bengaluru,Karnataka,11NIMAE2388I1Z3,2026-08-12
+S00037,Global Retail Solutions,Nisha Tiwari,globalretailsolutions@gmail.com,+910976866272,Delhi,Delhi,30ZEHON9529M1Z1,2026-08-12
+S00038,Apex Trading Co.,Maya Chanda,apextradingco@gmail.com,+915730219820,Bhopal,Madhya Pradesh,26ERCLV5353K1Z1,2026-08-12
+S00039,UrbanEdge Retail Solutions,Rajeshri Menon,urbanedgeretailsolutions@gmail.com,03812667219,Hyderabad,Telangana,32NAAEY8415V1Z8,2026-08-12
+S00040,Vertex Traders,Janani Swaminathan,vertextraders@gmail.com,02117789131,Bhopal,Madhya Pradesh,28HKENI2440P1Z2,2026-08-12
+S00041,NovaMart Traders,Chaaya Mammen,novamarttraders@gmail.com,04283037472,Ahmedabad,Gujarat,31ZXMVK1188M1Z6,2026-08-12
+S00042,Apex Supply Chain,Idika Balasubramanian,apexsupplychain@gmail.com,5086508006,Jaipur,Rajasthan,24LBDUC6353F1Z1,2026-08-12
+S00043,Global Retail Solutions,Ekanta Ganesan,globalretailsolutions@gmail.com,+919128321368,Pune,Maharashtra,19VYSYB0740W1Z4,2026-08-12
+S00044,Global Wholesale,Krisha Radhakrishnan,globalwholesale@gmail.com,01062336337,Delhi,Delhi,28FUPRY7468W1Z2,2026-08-12
+S00045,BlueNova Supply Chain,Amol Parmar,bluenovasupplychain@gmail.com,+914043499608,Bengaluru,Karnataka,21UVJVV7018C1Z4,2026-08-12
+S00046,Skyline Distributors,Zaitra Atwal,skylinedistributors@gmail.com,+917654598346,Jaipur,Rajasthan,22QJJFB9032E1Z2,2026-08-12
+S00047,Vertex Enterprises,Sai Sani,vertexenterprises@gmail.com,2254735313,Bhopal,Madhya Pradesh,17JJBNX3595T1Z4,2026-08-12
+S00048,NovaMart Trading Co.,Zaitra Koshy,novamarttradingco@gmail.com,02475360863,Bengaluru,Karnataka,20BBDHH7899E1Z8,2026-08-12
+S00049,NovaMart Supply Chain,Zinal Bawa,novamartsupplychain@gmail.com,0458420689,Bengaluru,Karnataka,35VPYVI6762W1Z7,2026-08-12
+S00050,Apex Retail Solutions,Tanay Nazareth,apexretailsolutions@gmail.com,5859866515,Lucknow,Uttar Pradesh,29ABAKA1988Z1Z2,2026-08-12
+S00051,Vertex Enterprises,Ishaan Konda,vertexenterprises@gmail.com,1655501823,Indore,Madhya Pradesh,25OUYIQ6145K1Z5,2026-08-12
+S00052,NovaMart Enterprises,Chatura Mand,novamartenterprises@gmail.com,9689497465,Hyderabad,Telangana,10RMVNH7611D1Z1,2026-08-12
+S00053,NextGen Supplies Pvt Ltd,Omya Sawhney,nextgensuppliespvtltd@gmail.com,03718875181,Mumbai,Maharashtra,33MGWSV0327W1Z7,2026-08-12
+S00054,BlueNova Trading Co.,Pratyush Mangal,bluenovatradingco@gmail.com,08890107142,Delhi,Delhi,30QCVCN7509U1Z6,2026-08-12
+S00055,Vertex Supply Chain,Vedhika Sodhi,vertexsupplychain@gmail.com,05122593300,Jaipur,Rajasthan,19KVPFD5055M1Z6,2026-08-12
+S00056,NovaMart Supplies Pvt Ltd,Sudiksha Naidu,novamartsuppliespvtltd@gmail.com,+914916024618,Jaipur,Rajasthan,13PWTTY0005S1Z0,2026-08-12
+S00057,Global Traders,Anamika Mitra,globaltraders@gmail.com,7587250542,Mumbai,Maharashtra,35RUUKC6865O1Z4,2026-08-12
+S00058,BlueNova Traders,Chanchal Nadig,bluenovatraders@gmail.com,0148214993,Bengaluru,Karnataka,14YAULK3804R1Z7,2026-08-12
+S00059,Global Traders,Yug Shetty,globaltraders@gmail.com,04246660907,Bengaluru,Karnataka,32KFUFY5614J1Z3,2026-08-12
+S00060,BlueNova Supply Chain,Michael Batta,bluenovasupplychain@gmail.com,08453693342,Pune,Maharashtra,16LNRWG6395S1Z6,2026-08-12
+S00061,Elite Traders,Dalaja Yogi,elitetraders@gmail.com,+913141447233,Jaipur,Rajasthan,18BWOQB7474E1Z4,2026-08-12
+S00062,Vertex Traders,Bishakha Bhatti,vertextraders@gmail.com,+918625088829,Mumbai,Maharashtra,23PAZTY7437Z1Z5,2026-08-12
+S00063,UrbanEdge Supply Chain,Faraj Wason,urbanedgesupplychain@gmail.com,09709668070,Mumbai,Maharashtra,21SOPPV0892E1Z1,2026-08-12
+S00064,Global Supply Chain,Lucky Goswami,globalsupplychain@gmail.com,+910615490631,Delhi,Delhi,33LUPUJ5957I1Z7,2026-08-12
+S00065,Apex Trading Co.,Kritika Sahni,apextradingco@gmail.com,02045884107,Mumbai,Maharashtra,26TNHZN6646U1Z1,2026-08-12
+S00066,Vertex Wholesale,Bishakha Sachdeva,vertexwholesale@gmail.com,08879599041,Indore,Madhya Pradesh,28ICTQS9059Q1Z5,2026-08-12
+S00067,PrimeTech Trading Co.,Vinaya Sundaram,primetechtradingco@gmail.com,1658450295,Jaipur,Rajasthan,10NLNUM4711J1Z4,2026-08-12
+S00068,NovaMart Supply Chain,Qabil Mannan,novamartsupplychain@gmail.com,4123057208,Mumbai,Maharashtra,33FDXIN4422C1Z0,2026-08-12
+S00069,NovaMart Traders,Mitesh Talwar,novamarttraders@gmail.com,+913712816837,Pune,Maharashtra,32RWBQJ6804R1Z9,2026-08-12
+S00070,BlueNova Traders,Dayamai Ghosh,bluenovatraders@gmail.com,+915125605694,Indore,Madhya Pradesh,16HSXQG5179R1Z0,2026-08-12
+S00071,NovaMart Distributors,Ekanta Kashyap,novamartdistributors@gmail.com,03151002005,Jaipur,Rajasthan,13SNQTT1759O1Z6,2026-08-12
+S00072,BlueNova Supplies Pvt Ltd,Urishilla Rajagopalan,bluenovasuppliespvtltd@gmail.com,3070407555,Bhopal,Madhya Pradesh,32UIQGS8621O1Z2,2026-08-12
+S00073,Elite Supply Chain,Chaitanya Chanda,elitesupplychain@gmail.com,+915249637669,Mumbai,Maharashtra,11NPUPB2319G1Z6,2026-08-12
+S00074,Global Wholesale,Gopal Sampath,globalwholesale@gmail.com,5503659321,Bhopal,Madhya Pradesh,11MGYBS3910B1Z7,2026-08-12
+S00075,Vertex Retail Solutions,Balvan Pal,vertexretailsolutions@gmail.com,6407095202,Mumbai,Maharashtra,34INOHA6811W1Z5,2026-08-12
+S00076,Skyline Trading Co.,Warjas Seth,skylinetradingco@gmail.com,04575905328,Pune,Maharashtra,32AXOGO4010G1Z1,2026-08-12
+S00077,NextGen Retail Solutions,Saumya Kale,nextgenretailsolutions@gmail.com,02067182499,Pune,Maharashtra,26WEXJC2345L1Z9,2026-08-12
+S00078,NextGen Trading Co.,Charan Saha,nextgentradingco@gmail.com,06480922608,Jaipur,Rajasthan,31UASOU5091I1Z5,2026-08-12
+S00079,Elite Supply Chain,Dalbir Gandhi,elitesupplychain@gmail.com,+911062682313,Ahmedabad,Gujarat,27THHBX2969A1Z6,2026-08-12
+S00080,Vertex Supplies Pvt Ltd,Ishaan Madan,vertexsuppliespvtltd@gmail.com,+912942661053,Bengaluru,Karnataka,33GXPAX0703G1Z1,2026-08-12
+S00081,BlueNova Traders,Yauvani Dhawan,bluenovatraders@gmail.com,01570992176,Ahmedabad,Gujarat,16IQOUK6399X1Z8,2026-08-12
+S00082,Global Supplies Pvt Ltd,Aadhya Kashyap,globalsuppliespvtltd@gmail.com,7934521484,Hyderabad,Telangana,14YXGQA2701L1Z2,2026-08-12
+S00083,Skyline Traders,Ranbir Murthy,skylinetraders@gmail.com,6680504979,Mumbai,Maharashtra,26MRWLH3740I1Z6,2026-08-12
+S00084,NovaMart Distributors,Darpan Ghose,novamartdistributors@gmail.com,+919521015605,Bhopal,Madhya Pradesh,11WNKWZ1271P1Z5,2026-08-12
+S00085,Global Supply Chain,Vanya Sachdeva,globalsupplychain@gmail.com,00872543680,Hyderabad,Telangana,30GYFGF8320J1Z1,2026-08-12
+S00086,NextGen Trading Co.,Hemangini Bains,nextgentradingco@gmail.com,+911348663912,Jaipur,Rajasthan,23QRDKJ7903K1Z7,2026-08-12
+S00087,PrimeTech Supplies Pvt Ltd,Nirja Deshpande,primetechsuppliespvtltd@gmail.com,02279099130,Bengaluru,Karnataka,24ZDKKM9041T1Z9,2026-08-12
+S00088,BlueNova Supply Chain,Ekaraj Singhal,bluenovasupplychain@gmail.com,08985971217,Hyderabad,Telangana,23IPJRJ8733Y1Z2,2026-08-12
+S00089,UrbanEdge Distributors,Imaran Hayre,urbanedgedistributors@gmail.com,1905412263,Hyderabad,Telangana,30ACZMU1317R1Z5,2026-08-12
+S00090,Global Traders,Warhi Kalita,globaltraders@gmail.com,+919412450183,Lucknow,Uttar Pradesh,20NUYFN4771G1Z5,2026-08-12
+S00091,Skyline Traders,Frederick Nagar,skylinetraders@gmail.com,01125202929,Bhopal,Madhya Pradesh,12SAQEX2822P1Z2,2026-08-12
+S00092,BlueNova Supply Chain,Teerth Toor,bluenovasupplychain@gmail.com,4502494540,Ahmedabad,Gujarat,35MBCPG7179Z1Z0,2026-08-12
+S00093,Elite Supply Chain,Kamya Bajaj,elitesupplychain@gmail.com,06219798896,Pune,Maharashtra,28YMETU7902E1Z1,2026-08-12
+S00094,UrbanEdge Trading Co.,Harshil Naidu,urbanedgetradingco@gmail.com,+919884413249,Delhi,Delhi,31CTNBU2289Y1Z7,2026-08-12
+S00095,Elite Trading Co.,Pranav Maharaj,elitetradingco@gmail.com,03494394164,Delhi,Delhi,19XPHEN5266H1Z8,2026-08-12
+S00096,Elite Trading Co.,Aachal Kar,elitetradingco@gmail.com,0351708075,Hyderabad,Telangana,35WGRHK0011T1Z2,2026-08-12
+S00097,Vertex Distributors,Samaksh Madan,vertexdistributors@gmail.com,+911968267235,Bhopal,Madhya Pradesh,19TKKSQ0134N1Z3,2026-08-12
+S00098,BlueNova Distributors,Samesh Kalita,bluenovadistributors@gmail.com,00140882480,Bhopal,Madhya Pradesh,32TELVZ9271V1Z1,2026-08-12
+S00099,NextGen Enterprises,Ansh Sane,nextgenenterprises@gmail.com,+912591388612,Ahmedabad,Gujarat,35TYEAQ8477W1Z3,2026-08-12
+S00100,NovaMart Supplies Pvt Ltd,Wahab Sahota,novamartsuppliespvtltd@gmail.com,+913796273954,Mumbai,Maharashtra,32TFRDO6467Q1Z8,2026-08-12
